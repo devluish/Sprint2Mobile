@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462113259720",
+    "project_id": "odontovision-ff40d",
+    "storage_bucket": "odontovision-ff40d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462113259720:android:8948b1beee6aff71e225fd",
+        "android_client_info": {
+          "package_name": "com.example.odontovision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfC_L76HI1oFV-zULvp9USM8aG_Ac-q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
